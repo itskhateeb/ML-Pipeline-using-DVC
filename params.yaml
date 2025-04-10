@@ -4,3 +4,6 @@ data_ingestion:
   raw_data_path: data/raw
   train_path: data/raw/train.csv
   test_path: data/raw/test.csv
+  
+feature_engineering:
+  max_features: 3000
